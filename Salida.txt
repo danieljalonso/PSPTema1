@@ -1,0 +1,36 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 90B4-AFAA
+
+ Directorio de C:\Users\alumno
+
+24/09/2026  10:45    <DIR>          .
+01/06/2026  13:17    <DIR>          ..
+23/09/2026  16:32    <DIR>          .android
+09/09/2026  12:11    <DIR>          .copilot
+14/09/2026  19:54                16 .emulator_console_auth_token
+14/09/2026  19:54    <DIR>          .gradle
+18/09/2026  16:29    <DIR>          .jdks
+18/09/2026  15:44    <DIR>          .m2
+16/09/2025  11:12    <DIR>          .ms-ad
+24/09/2026  10:45    <DIR>          .ssh
+25/09/2026  08:57    <DIR>          .VirtualBox
+09/09/2026  12:11    <DIR>          .vscode
+09/09/2026  12:11    <DIR>          .vscode-shared
+16/09/2026  15:26    <DIR>          AndroidStudioProjects
+04/09/2025  09:15    <DIR>          Contacts
+23/09/2026  16:32    <DIR>          Desktop
+22/09/2026  14:33    <DIR>          Documents
+25/09/2026  16:46    <DIR>          Downloads
+04/09/2025  09:15    <DIR>          Favorites
+18/09/2026  15:44    <DIR>          IdeaProjects
+04/09/2025  09:15    <DIR>          Links
+04/09/2025  09:15    <DIR>          Music
+03/09/2025  12:15    <DIR>          OneDrive
+16/09/2026  10:23    <DIR>          Pictures
+10/09/2026  09:10    <DIR>          PyCharmMiscProject
+04/09/2025  09:15    <DIR>          Saved Games
+04/09/2025  09:26    <DIR>          Searches
+04/09/2025  09:26    <DIR>          Videos
+24/09/2026  10:52    <DIR>          VirtualBox VMs
+               1 archivos             16 bytes
+              28 dirs  382.259.957.760 bytes libres
